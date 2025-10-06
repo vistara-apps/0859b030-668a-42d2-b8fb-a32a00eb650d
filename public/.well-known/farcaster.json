@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Base Yield Pilot",
+    "subtitle": "Built with Zara",
+    "description": "Base Yield Pilot is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://0859b030668a42d2b8fba32a00eb650d-6g5u.vercel.app",
+    "splashImageUrl": "https://0859b030668a42d2b8fba32a00eb650d-6g5u.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://0859b030668a42d2b8fba32a00eb650d-6g5u.vercel.app/image.png",
+    "tagline": "Base Yield Pilot",
+    "screenshotUrls": [
+      "https://0859b030668a42d2b8fba32a00eb650d-6g5u.vercel.app/screenshot.png",
+      "https://0859b030668a42d2b8fba32a00eb650d-6g5u.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://0859b030668a42d2b8fba32a00eb650d-6g5u.vercel.app/api/webhook"
+  }
+}

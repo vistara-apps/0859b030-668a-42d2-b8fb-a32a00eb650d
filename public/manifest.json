@@ -1,0 +1,14 @@
+{
+  "name": "Base Yield Pilot",
+  "description": "Base Yield Pilot is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://0859b030-668a-42d2-b8fb-a32a00eb650d.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Base Yield Pilot",
+      "description": "Base Yield Pilot is a Base Mini App built with Zara.",
+      "url": "https://0859b030-668a-42d2-b8fb-a32a00eb650d.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
